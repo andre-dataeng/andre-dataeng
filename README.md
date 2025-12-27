@@ -8,11 +8,13 @@ Focado em transformar dados brutos em inteligência de negócio. Atuo na constru
 
 ### 🛠️ Minha Stack Tecnológica
 
-- **Linguagens:** - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) (Conhecimentos básicos/ETL, Pandas, Automação)
+- **Linguagens:** -
+  -  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) (Conhecimentos básicos/ETL, Pandas, Automação)
   - ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) (Consultas e Modelagem)
   - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) (Conhecimentos básicos/estudos em lógica)
 
-- **Visualização & BI:** - ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) 
+- **Visualização & BI:**
+  - ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) 
   - ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google-looker&logoColor=white)
 
 ---
