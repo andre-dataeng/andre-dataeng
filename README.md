@@ -28,7 +28,6 @@ Focado em transformar dados brutos em inteligência de negócio. Atuo na constru
  Looker Studio
 - [**📈 Marketing Analytics**](https://lookerstudio.google.com/reporting/c10a5f9a-84e0-4431-af43-5582c876e048): Performance de Conteúdo & Tráfego
 
-Este projeto apresenta um ecossistema de monitoramento de performance digital desenvolvido no **Looker Studio**, consolidando métricas de engajamento de artigos, vídeos e campanhas pagas.
 ---
 
 📫 **Como me encontrar:**
