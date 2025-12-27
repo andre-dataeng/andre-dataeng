@@ -20,7 +20,8 @@ Focado em transformar dados brutos em inteligência de negócio. Atuo na constru
 ---
 
 ### 📌 Projetos em Destaque
-- [**Dashboard Performance Comercial**](https://github.com/andre-dataeng/dash-performance-comercial): Pipeline simplificado com Python + Power BI focado em KPIs de vendas.
+- [**📊 Dashboard Performance Comercial**](https://github.com/andre-dataeng/dash-performance-comercial): Pipeline Python + Power BI.
+- [**🚗 Análise de Vendas Automotivas**](https://github.com/andre-dataeng/dash-automotive-sales-analysis): Análise regional e financeira de concessionária.
 
 ---
 
