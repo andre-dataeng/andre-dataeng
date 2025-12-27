@@ -1,4 +1,4 @@
-# Olá, eu sou o André! 👋
+# Olá, eu sou o André André! 👋
 
 ### 🚀 Desenvolvedor de Soluções de Dados | BI & Analytics
 
